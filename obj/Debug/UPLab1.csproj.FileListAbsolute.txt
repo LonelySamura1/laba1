@@ -1,0 +1,10 @@
+C:\Users\318218\Documents\Visual Studio 2013\Projects\C#\UPLab1\UPLab1\bin\Debug\UPLab1.exe.config
+C:\Users\318218\Documents\Visual Studio 2013\Projects\C#\UPLab1\UPLab1\bin\Debug\UPLab1.exe
+C:\Users\318218\Documents\Visual Studio 2013\Projects\C#\UPLab1\UPLab1\bin\Debug\UPLab1.pdb
+C:\Users\318218\Documents\Visual Studio 2013\Projects\C#\UPLab1\UPLab1\obj\Debug\UPLab1.csprojAssemblyReference.cache
+C:\Users\318218\Documents\Visual Studio 2013\Projects\C#\UPLab1\UPLab1\obj\Debug\UPLab1.csproj.CoreCompileInputs.cache
+C:\Users\318218\Documents\Visual Studio 2013\Projects\C#\UPLab1\UPLab1\obj\Debug\UPLab1.exe
+C:\Users\318218\Documents\Visual Studio 2013\Projects\C#\UPLab1\UPLab1\obj\Debug\UPLab1.pdb
+C:\Users\318218\Desktop\Практика отчеты\1\UPLab1\UPLab1\bin\Debug\UPLab1.exe.config
+C:\Users\318218\Desktop\Практика отчеты\1\UPLab1\UPLab1\obj\Debug\UPLab1.exe
+C:\Users\318218\Desktop\Практика отчеты\1\UPLab1\UPLab1\obj\Debug\UPLab1.pdb
